@@ -17,7 +17,7 @@ instagram:   ''
 facebook:    ''
 
 markdown:  kramdown
-permalink: pretty
+permalink: /:title
 paginate:  4
 
 sass:
